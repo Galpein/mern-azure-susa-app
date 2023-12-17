@@ -1,3 +1,7 @@
+Para ver los archivos de python utilizados en el estudio de anomalías, predicción de glucosa, etc. ir a la carpeta implementation_validation.
+
+Para ejecutar la app:
+
 1. Clonar el Repositorio:
 
 git clone URL_DEL_REPOSITORIO
@@ -24,3 +28,4 @@ Iniciar el servidor Node.js:
 Iniciar la aplicación React (en una terminal diferente):
 
 - npm start
+
